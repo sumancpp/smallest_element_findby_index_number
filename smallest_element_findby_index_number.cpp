@@ -22,7 +22,5 @@ int main(){
     }
    }
    cout<<"The largest number index is "<<large;
-
-
-    return 0;
+   return 0;
 }
